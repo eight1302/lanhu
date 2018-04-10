@@ -1,0 +1,138 @@
+::-webkit-scrollbar {display:none}
+.one{
+	padding: 0;
+}
+.two{
+	line-height: 70px;
+}
+.top{
+	padding: 0;
+	margin: 0;
+	height: 530px;
+	width: 100%;
+	background: url(../img/bg.png) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+}
+.notice{
+	padding: 0;
+	margin: 0;
+	height: 30px;
+	background: #000;
+	opacity: 0.2;
+}
+.notice_s{
+	padding: 0;
+	position:absolute;
+    width: 100%;
+    text-align: right;
+	color: #fff;
+	display: block;
+	line-height: 30px;
+	text-align: right;
+}
+.nav_tion{
+	top: 0;
+	margin-top: 10px;
+	height: 70px;
+	color: #fff;
+	text-align :center;
+}
+ul>li{
+	list-style: none;
+	font-size: 17px;
+}
+.a{
+	color: #fff;
+	text-decoration: none;
+}
+.a:hover{
+	color: #000;
+	text-decoration: none;
+}
+.search_find{
+	position: absolute;
+    bottom: 0;
+    height: 100px;
+}
+.search_input{
+	width: 60%;
+    margin-left: 20%;
+    height: 40px;
+    border: 1px dashed #fff;
+    border-radius: 15px;
+}
+.input_seach{
+	width: 100%;
+    height: 40px;
+    border-radius: 15px;
+    border: none;
+    background: none;
+    color: #fff;
+    font-size: 16px;
+    outline:none;
+}
+.img_search{
+	width: 30px;
+    margin-top: -34px;
+    float: right;
+    margin-right: 20px;
+}
+.fication{
+	margin-top: 20px;
+	height: auto;
+	width: 80%;
+	margin-left: 10%;
+	background: #fff;
+}
+.classification,.fication_1{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 10px;
+	margin-bottom: 20px;
+}
+.imgs{
+	height: auto;
+}
+.img_tp{
+	width: 380px;
+	height: 450px;
+}
+.img1{
+	z-index: 10;
+	width: 100%;
+	height: 100%;
+	background: #000;
+}
+.flow{
+	width: 95%;
+    height: 95.5%;
+    z-index: 1000;
+    background: #000;
+    top: 10px;
+    left: 11px;
+    position: absolute;
+    opacity: 0.7;
+    padding: 10px;
+    display: none;
+}
+.moss{
+	bottom: 10px;
+	color: red;bottom: 0; 
+	float: right;
+}
+.roule{
+	width: 137px;
+	height: 137px;
+	border-radius: 100%;
+	margin: auto;
+	background: #2196F3;
+	margin-top: 3%;
+}
+.party{
+	width: 100px;
+	height: 100px;
+	border-radius: 3px;
+	background: #666;
+}

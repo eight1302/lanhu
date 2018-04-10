@@ -1,0 +1,92 @@
+html, body {
+    //background: url(../view/timg.jpg) no-repeat center center fixed;
+    margin: 0;
+    padding: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    overflow: -webkit-paged-x;
+
+}
+.resume{
+    margin-left: 25%;
+    margin-top: 20px;
+    background: #fff;
+    padding: 0;
+    margin-bottom: 40px;
+
+}
+.header{
+	height: 100px;
+}
+.img{
+	width: 100px;
+	height: 135px;
+	padding: 0;
+	margin: auto;
+}
+.one{
+	width: 100px;
+    height: 135px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.two{
+	padding: 0;
+}
+.name{
+    text-align: center;
+    font-size: 30px;
+    /* height: 90px; */
+    margin-top: 57px;
+    font-family: cursive;
+}
+.position{
+	height: 20px;
+    line-height: 20px;
+    font-family: cursive;
+    text-align: right;
+}
+ul{
+	width: 500px;
+    margin: auto;
+}
+ul>li{
+	margin-right: 30px;
+}
+.info{
+	width: 100%;
+}
+.job{
+	margin-right: 150px;
+	font-size: 17px;
+	margin-right: 62px;
+    font-size: 17px;
+    color: #000;
+    font-family: serif;
+}
+.education{
+	
+}
+.education_ba{
+	font-size: 19px;
+    font-family: fantasy;
+    margin-left: 20px;
+    font-weight: bold;
+    color: #666666;
+}
+.three{
+	text-align: left;
+	font-family: "Roboto Condensed", Arial, sans-serif;
+    background-color: #fff;
+    font-size: 15px;
+    line-height: 24px;
+    color: #666666;
+    font-weight: 300;
+
+}
+.education {
+    margin-top: 15px;
+}
